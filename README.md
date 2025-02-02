@@ -8,9 +8,6 @@ Task History: View previously added tasks with timestamps.
 Responsive Navbar: Navigate seamlessly with hover and click effects.
 Smooth Animations: Fade-in effects and interactive UI transitions.
 📂 Project Structure
-bash
-Copy
-Edit
 ├── App.jsx               # Main component handling routing and state management
 ├── App.css               # Global styles for the app
 └── /Component
@@ -24,22 +21,13 @@ History.jsx & History.css: Displays completed tasks with smooth fade-in animatio
 🛠️ How to Run
 Clone the Repository:
 
-bash
-Copy
-Edit
 git clone https://github.com/your-username/iTasks.git
-cd iTasks
+cd Tasky
 Install Dependencies:
 
-bash
-Copy
-Edit
 npm install
 Start the Application:
 
-bash
-Copy
-Edit
 npm start
 The app will run on http://localhost:3000.
 
